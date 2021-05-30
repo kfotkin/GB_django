@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acca03c5-2df1-47cd-b496-efdca334edb2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/settings.py" afterDir="false" />
+    <list default="true" id="acca03c5-2df1-47cd-b496-efdca334edb2" name="Default Changelist" comment="test HW commit">
+      <change beforePath="$PROJECT_DIR$/geekshop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +64,16 @@
       <option name="presentableId" value="Default" />
       <updated>1622389449913</updated>
       <workItem from="1622389536712" duration="670000" />
-      <workItem from="1622390299531" duration="1550000" />
+      <workItem from="1622390299531" duration="1871000" />
     </task>
+    <task id="LOCAL-00001" summary="test HW commit">
+      <created>1622391890544</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622391890544</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test HW commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="test HW commit" />
   </component>
 </project>
